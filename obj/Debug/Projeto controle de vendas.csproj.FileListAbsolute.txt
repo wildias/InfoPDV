@@ -1,0 +1,43 @@
+D:\Curso Udemy\projeto controle de vendas\Projeto Controle de Vendas\Projeto controle de vendas\bin\Debug\Projeto controle de vendas.exe.config
+D:\Curso Udemy\projeto controle de vendas\Projeto Controle de Vendas\Projeto controle de vendas\bin\Debug\Projeto controle de vendas.exe
+D:\Curso Udemy\projeto controle de vendas\Projeto Controle de Vendas\Projeto controle de vendas\bin\Debug\Projeto controle de vendas.pdb
+D:\Curso Udemy\projeto controle de vendas\Projeto Controle de Vendas\Projeto controle de vendas\bin\Debug\BouncyCastle.Crypto.dll
+D:\Curso Udemy\projeto controle de vendas\Projeto Controle de Vendas\Projeto controle de vendas\bin\Debug\Google.Protobuf.dll
+D:\Curso Udemy\projeto controle de vendas\Projeto Controle de Vendas\Projeto controle de vendas\bin\Debug\K4os.Compression.LZ4.dll
+D:\Curso Udemy\projeto controle de vendas\Projeto Controle de Vendas\Projeto controle de vendas\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Curso Udemy\projeto controle de vendas\Projeto Controle de Vendas\Projeto controle de vendas\bin\Debug\K4os.Hash.xxHash.dll
+D:\Curso Udemy\projeto controle de vendas\Projeto Controle de Vendas\Projeto controle de vendas\bin\Debug\MySql.Data.dll
+D:\Curso Udemy\projeto controle de vendas\Projeto Controle de Vendas\Projeto controle de vendas\bin\Debug\System.Buffers.dll
+D:\Curso Udemy\projeto controle de vendas\Projeto Controle de Vendas\Projeto controle de vendas\bin\Debug\System.Memory.dll
+D:\Curso Udemy\projeto controle de vendas\Projeto Controle de Vendas\Projeto controle de vendas\bin\Debug\System.Numerics.Vectors.dll
+D:\Curso Udemy\projeto controle de vendas\Projeto Controle de Vendas\Projeto controle de vendas\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Curso Udemy\projeto controle de vendas\Projeto Controle de Vendas\Projeto controle de vendas\bin\Debug\Ubiety.Dns.Core.dll
+D:\Curso Udemy\projeto controle de vendas\Projeto Controle de Vendas\Projeto controle de vendas\bin\Debug\ZstdNet.dll
+D:\Curso Udemy\projeto controle de vendas\Projeto Controle de Vendas\Projeto controle de vendas\bin\Debug\BouncyCastle.Crypto.xml
+D:\Curso Udemy\projeto controle de vendas\Projeto Controle de Vendas\Projeto controle de vendas\bin\Debug\Google.Protobuf.pdb
+D:\Curso Udemy\projeto controle de vendas\Projeto Controle de Vendas\Projeto controle de vendas\bin\Debug\Google.Protobuf.xml
+D:\Curso Udemy\projeto controle de vendas\Projeto Controle de Vendas\Projeto controle de vendas\bin\Debug\K4os.Compression.LZ4.xml
+D:\Curso Udemy\projeto controle de vendas\Projeto Controle de Vendas\Projeto controle de vendas\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Curso Udemy\projeto controle de vendas\Projeto Controle de Vendas\Projeto controle de vendas\bin\Debug\K4os.Hash.xxHash.xml
+D:\Curso Udemy\projeto controle de vendas\Projeto Controle de Vendas\Projeto controle de vendas\bin\Debug\MySql.Data.xml
+D:\Curso Udemy\projeto controle de vendas\Projeto Controle de Vendas\Projeto controle de vendas\bin\Debug\System.Buffers.xml
+D:\Curso Udemy\projeto controle de vendas\Projeto Controle de Vendas\Projeto controle de vendas\bin\Debug\System.Memory.xml
+D:\Curso Udemy\projeto controle de vendas\Projeto Controle de Vendas\Projeto controle de vendas\bin\Debug\System.Numerics.Vectors.xml
+D:\Curso Udemy\projeto controle de vendas\Projeto Controle de Vendas\Projeto controle de vendas\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Curso Udemy\projeto controle de vendas\Projeto Controle de Vendas\Projeto controle de vendas\obj\Debug\Projeto controle de vendas.csproj.AssemblyReference.cache
+D:\Curso Udemy\projeto controle de vendas\Projeto Controle de Vendas\Projeto controle de vendas\obj\Debug\Projeto_controle_de_vendas.Properties.Resources.resources
+D:\Curso Udemy\projeto controle de vendas\Projeto Controle de Vendas\Projeto controle de vendas\obj\Debug\Projeto_controle_de_vendas.Views.FrmClientes.resources
+D:\Curso Udemy\projeto controle de vendas\Projeto Controle de Vendas\Projeto controle de vendas\obj\Debug\Projeto controle de vendas.csproj.GenerateResource.cache
+D:\Curso Udemy\projeto controle de vendas\Projeto Controle de Vendas\Projeto controle de vendas\obj\Debug\Projeto controle de vendas.csproj.CoreCompileInputs.cache
+D:\Curso Udemy\projeto controle de vendas\Projeto Controle de Vendas\Projeto controle de vendas\obj\Debug\Projeto controle de vendas.csproj.CopyComplete
+D:\Curso Udemy\projeto controle de vendas\Projeto Controle de Vendas\Projeto controle de vendas\obj\Debug\Projeto controle de vendas.exe
+D:\Curso Udemy\projeto controle de vendas\Projeto Controle de Vendas\Projeto controle de vendas\obj\Debug\Projeto controle de vendas.pdb
+D:\Curso Udemy\projeto controle de vendas\Projeto Controle de Vendas\Projeto controle de vendas\obj\Debug\Projeto_controle_de_vendas.Views.FrmFuncionarios.resources
+D:\Curso Udemy\projeto controle de vendas\Projeto Controle de Vendas\Projeto controle de vendas\obj\Debug\Projeto_controle_de_vendas.Views.FrmFornecedor.resources
+D:\Curso Udemy\projeto controle de vendas\Projeto Controle de Vendas\Projeto controle de vendas\obj\Debug\Projeto_controle_de_vendas.Views.FrmProduto.resources
+D:\Curso Udemy\projeto controle de vendas\Projeto Controle de Vendas\Projeto controle de vendas\obj\Debug\Projeto_controle_de_vendas.Views.FrmVendas.resources
+D:\Curso Udemy\projeto controle de vendas\Projeto Controle de Vendas\Projeto controle de vendas\obj\Debug\Projeto_controle_de_vendas.Views.FrmPagamento.resources
+D:\Curso Udemy\projeto controle de vendas\Projeto Controle de Vendas\Projeto controle de vendas\obj\Debug\Projeto_controle_de_vendas.Views.FrmHistorico.resources
+D:\Curso Udemy\projeto controle de vendas\Projeto Controle de Vendas\Projeto controle de vendas\obj\Debug\Projeto_controle_de_vendas.Views.FrmDetalhesVenda.resources
+D:\Curso Udemy\projeto controle de vendas\Projeto Controle de Vendas\Projeto controle de vendas\obj\Debug\Projeto_controle_de_vendas.Views.FrmLogin.resources
+D:\Curso Udemy\projeto controle de vendas\Projeto Controle de Vendas\Projeto controle de vendas\obj\Debug\Projeto_controle_de_vendas.Views.FrmMenu.resources
